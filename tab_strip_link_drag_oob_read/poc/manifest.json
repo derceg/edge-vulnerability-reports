@@ -1,0 +1,10 @@
+{
+  "name": "Window close OOB read",
+  "version": "1.0",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "manifest_version": 2
+}
